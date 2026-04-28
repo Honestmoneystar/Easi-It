@@ -1,0 +1,17 @@
+app/layout.tsx
+export const metadata = {
+  title: "Easi-It",
+  description: "Food Donation and Vendor Empowerment Platform",
+};
+
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <html lang="en">
+      <body>{children}</body>
+    </html>
+  );
+}
