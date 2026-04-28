@@ -1,2 +1,1 @@
-# Easi-It
-Food Donation and Vendor Empowerment platform 
+# Easi-it\nDeploy on Vercel.
